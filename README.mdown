@@ -7,6 +7,8 @@ Edge & Contour Detection
     EdgeDetection code needs major refactoring as it was initially a port of my
     code written in C.
 
+Sample Images
+-------------
 [![](http://i39.tinypic.com/ve3daa_th.png)](http://i39.tinypic.com/ve3daa.png)
 [![](http://i43.tinypic.com/vzx16g_th.png)](http://i43.tinypic.com/vzx16g.png)
 [![](http://i44.tinypic.com/rr7dib_th.jpg)](http://i44.tinypic.com/rr7dib.jpg)
