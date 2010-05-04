@@ -1,1 +1,14 @@
 Edge & Contour Detection
+=======
+
+    A java application that allows you to specific an image and determine the
+    best edge between any two given points.
+
+    EdgeDetection code needs major refactoring as it was initially a port of my
+    code written in C.
+
+[![](http://i39.tinypic.com/ve3daa_th.png)](http://i39.tinypic.com/ve3daa.png)
+[![](http://i43.tinypic.com/vzx16g_th.png)](http://i43.tinypic.com/vzx16g.png)
+[![](http://i44.tinypic.com/rr7dib_th.jpg)](http://i44.tinypic.com/rr7dib.jpg)
+[![](http://i39.tinypic.com/9rsu2w_th.png)](http://i39.tinypic.com/9rsu2w.png)
+[![](http://i43.tinypic.com/2q0im93_th.png)](http://i43.tinypic.com/2q0im93.png)
